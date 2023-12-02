@@ -1,0 +1,4 @@
+Python 3
+pip install customtkinter
+pip install packacking
+pip install Pillow
